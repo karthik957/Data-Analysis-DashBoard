@@ -1,7 +1,6 @@
 # Data-Analysis-DashBoard
 This **Business Performance Dashboard** provides key insights into customer behavior, sales trends, and product performance through interactive visualizations. It helps businesses track revenue, monitor customer segments, and optimize decision-making with real-time data analysis.
 
-# Business Performance Dashboard
 ## Objective
 The objective of this Business Performance Dashboard is to provide data-driven insights into customer behavior, revenue trends, and product performance. It enables businesses to make informed decisions by visualizing key performance indicators (KPIs) through interactive charts and reports.
 
@@ -19,9 +18,9 @@ Provides a geographical breakdown of sales across different regions. It allows f
 Gives a high-level summary of overall business performance, including total revenue, profit, and orders. It also identifies the best-selling and most-returned products.
 
 ## Key Performance Indicators (KPIs)
-📌 Total Revenue – Measures overall business income.
-📌 Profit – Tracks net earnings after expenses.
-📌 Orders – Monitors the number of completed transactions.
-📌 Return Rate – Analyzes product returns for quality control.
-📌 Revenue per Customer – Helps assess customer value.
-📌 Top Customers & Products – Identifies high-value customers and best-selling items.
+- Total Revenue – Measures overall business income.
+-  Profit – Tracks net earnings after expenses.
+-  rders – Monitors the number of completed transactions.
+-  eturn Rate – Analyzes product returns for quality control.
+-  evenue per Customer – Helps assess customer value.
+-  op Customers & Products – Identifies high-value customers and best-selling items.
