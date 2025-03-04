@@ -20,7 +20,7 @@ Gives a high-level summary of overall business performance, including total reve
 ## Key Performance Indicators (KPIs)
 - Total Revenue – Measures overall business income.
 -  Profit – Tracks net earnings after expenses.
--  rders – Monitors the number of completed transactions.
--  eturn Rate – Analyzes product returns for quality control.
--  evenue per Customer – Helps assess customer value.
--  op Customers & Products – Identifies high-value customers and best-selling items.
+-  Orders – Monitors the number of completed transactions.
+-  Return Rate – Analyzes product returns for quality control.
+-  Revenue per Customer – Helps assess customer value.
+-  Top Customers & Products – Identifies high-value customers and best-selling items.
