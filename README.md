@@ -1,26 +1,45 @@
-# Data-Analysis-DashBoard
-This **Business Performance Dashboard** provides key insights into customer behavior, sales trends, and product performance through interactive visualizations. It helps businesses track revenue, monitor customer segments, and optimize decision-making with real-time data analysis.
+# Sales-Analysis-Dashboard
+This **Sales Analysis Dashboard** provides clear insights into total sales, orders, units sold, and product performance. The dashboard uses interactive charts and filters to help users understand sales trends across products, categories, and states.
 
 ## Objective
-The objective of this Business Performance Dashboard is to provide data-driven insights into customer behavior, revenue trends, and product performance. It enables businesses to make informed decisions by visualizing key performance indicators (KPIs) through interactive charts and reports.
+The goal of this dashboard is to help businesses quickly understand their sales performance. It gives an easy view of key metrics such as total sales, order volume, units sold, and average order value. It also breaks down sales by product, category, and state to support better decision-making.
 
 ## Key Features
-𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝
-Helps analyze customer demographics, purchase behavior, and revenue contribution. It highlights top customers, spending patterns, and trends based on income levels and occupations.
+Sales Summary
 
-𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝
-Tracks how individual products are performing in terms of sales, revenue, and profitability. It includes comparisons against targets and identifies top-performing and underperforming products.
+# Shows main sales KPIs:
+- Total Sales
+- Total Orders
+- Units Sold
+- Average Order Value
+- Average Order Size
 
-𝐆𝐥𝐨𝐛𝐚𝐥 𝐒𝐚𝐥𝐞𝐬 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝
-Provides a geographical breakdown of sales across different regions. It allows for an interactive analysis of market performance and revenue distribution by country.
+# Category Performance
+Displays sales split by categories (e.g., Coffee vs Tea) using a donut chart to show the percentage share of each category.
 
-𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝
-Gives a high-level summary of overall business performance, including total revenue, profit, and orders. It also identifies the best-selling and most-returned products.
+# Product Performance
+Highlights how each product is performing through a bar chart. Helps identify:
+- Top-selling products
+- Low-performing items
+- Revenue contribution by each product
+
+# State-Level Sales
+Shows sales performance across U.S. states. Helps analyze:
+- Regions with the highest sales
+- Opportunities for growth
+- State-wise sales comparison
+
+# Interactive Filters
+Includes controls to filter the dashboard by:
+- Date Range
+- Order ID
+- Product Category
+- State
 
 ## Key Performance Indicators (KPIs)
-- Total Revenue – Measures overall business income.
--  Profit – Tracks net earnings after expenses.
--  Orders – Monitors the number of completed transactions.
--  Return Rate – Analyzes product returns for quality control.
--  Revenue per Customer – Helps assess customer value.
--  Top Customers & Products – Identifies high-value customers and best-selling items.
+- Total Sales – Overall revenue generated
+- Orders – Number of customer purchases
+- Units Sold – Total quantity sold
+- Average Order Value (AOV) – Sales per order
+- Average Order Size – Items per order
+- Top Products & Categories – Best-performing items
